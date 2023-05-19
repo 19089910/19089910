@@ -1,6 +1,6 @@
 ### Sejam bem-vindos 👋
 
-- 🎓 Olá meu nome é <strong>{Lucas}!</strong> Sou desenvolvedor Front-End, atualmente estou desenvolvendo e criando novos projetos com HTML + CSS + WordPress + JavasCript + Node + React + Python para automação selenium e appium + Android Studio Java + SQL + Padrões de Projetos
+- 🎓 Olá meu nome é <strong>{Lucas}!</strong> Sou desenvolvedor, atualmente estou desenvolvendo e criando novos projetos com HTML + CSS + WordPress + JavasCript + Node + React + Python para automação selenium e appium + Android Studio Java + SQL + Padrões de Projetos
 - 🤔 &nbsp; Explorar novas tecnologias e desenvolver soluções de software.
 - 💻 &nbsp; formado Ciencias da computação.
 
