@@ -27,7 +27,7 @@
 ## 📌 **GitHub Estatísticas**
 
 
-<a href="https://github.com/KauanSouzaa">
+<a href="https://github.com/19089910">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasBarbosa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="**Lucas** github stats"/>
 </a>
 
